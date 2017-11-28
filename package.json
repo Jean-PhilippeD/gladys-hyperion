@@ -1,0 +1,11 @@
+{
+  "name": "hyerion",
+  "version": "0.1.0",
+  "description": "Hyperion client through Gladys",
+  "keywords": [],
+  "dependencies": {
+    "hyperion-client": "^1.0.3"
+  },
+  "author": "Jean-PhilippeD",
+  "license": "Creative Commons 3.0 France"
+}
