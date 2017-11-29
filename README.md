@@ -30,8 +30,6 @@ For color:
 
 For effects:
 - 100 : X-Mas,
-- 101 : UDP listener,
-- 102 : UDP multicast listener,
 - 103 : Color traces,
 - 104 : Stobe White,
 - 105 : Strobe Raspbmc,
